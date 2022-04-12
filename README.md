@@ -13,6 +13,13 @@ This pipeline for metagenomic analysis of fungi communities facilitating compost
 
 ## Data Processing
 
+### Removing Adapters
+
+
+### 
+
+
+
 
 ## Taxonomic Assignment
 
