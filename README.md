@@ -7,8 +7,18 @@ Metagenomic analysis of fungi communities facilitating composting
 
 This pipeline for metagenomic analysis of fungi communities facilitating composting. The pipeline consists of various steps which are as follows:
 
-1.
-2. 
+1. Data processing
+2. Taxonomic Assignment
+3. Visualisation
+
+## Data Processing
+
+
+## Taxonomic Assignment
+
+
+## Visualisation
+
 
 
 
