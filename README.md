@@ -1,7 +1,7 @@
 # ITS Metagenomic Analysis
 Metagenomic analysis of fungi communities facilitating composting
 
-**This tutorial was produced by Nehemiah Ongeso (nehemiahongeso@gmail.com) & Felix Matheri (fmatheri@icipe.org)**
+**This analysis pipeline was produced by Nehemiah Ongeso (nehemiahongeso@gmail.com) & Felix Matheri (fmatheri@icipe.org)**
 
 ## Overview
 
